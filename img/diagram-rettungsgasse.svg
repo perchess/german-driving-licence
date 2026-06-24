@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 360" font-family="sans-serif">
+  <style>
+    .road { fill: #4a4a4a; }
+    .lane { stroke: #fff; stroke-width: 2; stroke-dasharray: 12 10; }
+    .edge { stroke: #fff; stroke-width: 3; }
+    .car { stroke: #111; stroke-width: 0.8; rx: 3; }
+    .b { fill: #1976d2; }
+    .r { fill: #d32f2f; }
+    .g { fill: #455a64; }
+    .y { fill: #f9a825; }
+    .head { font-size: 16px; font-weight: 700; fill: #111; }
+    .sub { font-size: 14px; font-weight: 600; fill: #2e7d32; }
+    .lbl { font-size: 12px; fill: #fff; }
+    .lblb { font-size: 12px; fill: #111; font-weight: 600; }
+    .amb { fill: #fff; stroke: #d32f2f; stroke-width: 2; }
+  </style>
+
+  <text class="head" x="20" y="22">Rettungsgasse — коридор для спецслужб в пробке</text>
+
+  <!-- TWO-LANE highway (left half) -->
+  <text class="sub" x="20" y="50">2 полосы: КАЖДЫЙ жмётся к своей стороне → коридор по центру</text>
+  <rect class="road" x="20" y="60" width="320" height="120"/>
+  <line class="edge" x1="20" y1="60" x2="340" y2="60"/>
+  <line class="edge" x1="20" y1="180" x2="340" y2="180"/>
+  <line class="lane" x1="20" y1="120" x2="340" y2="120"/>
+
+  <!-- Cars left lane pressed to LEFT edge -->
+  <rect class="car b" x="30" y="68" width="36" height="20"/>
+  <rect class="car r" x="80" y="68" width="36" height="20"/>
+  <rect class="car g" x="130" y="68" width="36" height="20"/>
+  <rect class="car b" x="180" y="68" width="36" height="20"/>
+  <rect class="car y" x="230" y="68" width="36" height="20"/>
+  <rect class="car r" x="280" y="68" width="36" height="20"/>
+
+  <!-- Cars right lane pressed to RIGHT edge -->
+  <rect class="car r" x="30" y="152" width="36" height="20"/>
+  <rect class="car g" x="80" y="152" width="36" height="20"/>
+  <rect class="car b" x="130" y="152" width="36" height="20"/>
+  <rect class="car y" x="180" y="152" width="36" height="20"/>
+  <rect class="car r" x="230" y="152" width="36" height="20"/>
+  <rect class="car b" x="280" y="152" width="36" height="20"/>
+
+  <!-- Ambulance in corridor -->
+  <rect class="amb" x="130" y="106" width="60" height="28"/>
+  <text class="lblb" x="138" y="124">🚑 RTW</text>
+
+  <!-- THREE-LANE highway (right half) -->
+  <text class="sub" x="380" y="50">3 полосы: коридор между ЛЕВОЙ и СРЕДНЕЙ</text>
+  <text class="lblb" x="380" y="68">левая → налево; средняя+правая → направо</text>
+  <rect class="road" x="380" y="80" width="320" height="180"/>
+  <line class="edge" x1="380" y1="80" x2="700" y2="80"/>
+  <line class="edge" x1="380" y1="260" x2="700" y2="260"/>
+  <line class="lane" x1="380" y1="140" x2="700" y2="140"/>
+  <line class="lane" x1="380" y1="200" x2="700" y2="200"/>
+
+  <!-- Lane 1 (top): cars to LEFT side -->
+  <rect class="car b" x="390" y="86" width="34" height="18"/>
+  <rect class="car r" x="430" y="86" width="34" height="18"/>
+  <rect class="car g" x="470" y="86" width="34" height="18"/>
+  <rect class="car y" x="510" y="86" width="34" height="18"/>
+  <rect class="car b" x="550" y="86" width="34" height="18"/>
+  <rect class="car r" x="590" y="86" width="34" height="18"/>
+  <rect class="car g" x="630" y="86" width="34" height="18"/>
+
+  <!-- Corridor between lane 1 and 2 -->
+  <rect class="amb" x="500" y="120" width="60" height="28"/>
+  <text class="lblb" x="510" y="138">🚑 RTW</text>
+
+  <!-- Lane 2 (middle): pressed to RIGHT -->
+  <rect class="car b" x="390" y="174" width="34" height="18"/>
+  <rect class="car r" x="430" y="174" width="34" height="18"/>
+  <rect class="car g" x="470" y="174" width="34" height="18"/>
+  <rect class="car y" x="510" y="174" width="34" height="18"/>
+  <rect class="car r" x="550" y="174" width="34" height="18"/>
+  <rect class="car g" x="590" y="174" width="34" height="18"/>
+  <rect class="car b" x="630" y="174" width="34" height="18"/>
+
+  <!-- Lane 3 (bottom): pressed to RIGHT edge -->
+  <rect class="car r" x="390" y="236" width="34" height="18"/>
+  <rect class="car g" x="430" y="236" width="34" height="18"/>
+  <rect class="car y" x="470" y="236" width="34" height="18"/>
+  <rect class="car b" x="510" y="236" width="34" height="18"/>
+  <rect class="car r" x="550" y="236" width="34" height="18"/>
+  <rect class="car g" x="590" y="236" width="34" height="18"/>
+  <rect class="car y" x="630" y="236" width="34" height="18"/>
+
+  <text class="head" x="20" y="290">МНЕМОНИКА: всегда между КРАЙНЕЙ ЛЕВОЙ и следующей справа.</text>
+  <text class="head" x="20" y="312">Образовывать ЗАРАНЕЕ, не когда сирена уже близко.</text>
+  <text class="head" x="20" y="334">Обочина (Standstreifen) — НЕ Rettungsgasse.</text>
+</svg>

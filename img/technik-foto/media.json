@@ -1,0 +1,426 @@
+{
+  "description": "Technik-Fotos für Abfahrtkontrolle-Flashcards (Klasse B). Quelle: Wikimedia Commons.",
+  "count": 42,
+  "items": [
+    {
+      "file": "motor-batterie.jpg",
+      "topic": "motorraum",
+      "de": "die Autobatterie",
+      "ru": "аккумулятор",
+      "shows": "Batterie mit Polklemmen im Motorraum",
+      "source": "https://commons.wikimedia.org/wiki/File:Detail_of_automobile_battery_pack_in_1,2_HTP_in_Škoda_Fabia_I.jpg",
+      "author": "Frettie",
+      "license": "CC BY 3.0"
+    },
+    {
+      "file": "motor-bremsfluessigkeit.jpg",
+      "topic": "motorraum",
+      "de": "der Bremsflüssigkeitsbehälter",
+      "ru": "бачок тормозной жидкости",
+      "shows": "Bremsflüssigkeitsbehälter (Škoda Fabia)",
+      "source": "https://commons.wikimedia.org/wiki/File:Brake_fluid_reservoir_in_Škoda_Fabia_I.jpg",
+      "author": "Frettie",
+      "license": "CC BY 3.0"
+    },
+    {
+      "file": "motor-luftfilter.jpg",
+      "topic": "motorraum",
+      "de": "der Luftfilterkasten",
+      "ru": "корпус воздушного фильтра",
+      "shows": "Luftfiltergehäuse (Opel Astra)",
+      "source": "https://commons.wikimedia.org/wiki/File:Air_filter,_opel_astra(1).JPG",
+      "author": "Donar Reiskoffer",
+      "license": "CC BY 3.0"
+    },
+    {
+      "file": "motor-oeleinfuelldeckel.jpg",
+      "topic": "motorraum",
+      "de": "der Öleinfülldeckel",
+      "ru": "крышка маслозаливной горловины",
+      "shows": "Öleinfülldeckel im Motorraum",
+      "source": "https://commons.wikimedia.org/wiki/File:Cover_of_refill_oil_tank_in_1,2_HTP_engine_in_Škoda_Fabia_I.jpg",
+      "author": "Frettie",
+      "license": "CC BY 3.0"
+    },
+    {
+      "file": "motor-oelmessstab-ablesen.jpg",
+      "topic": "motorraum",
+      "de": "den Ölstand ablesen",
+      "ru": "проверка уровня масла",
+      "shows": "Ölfilm zwischen MIN und MAX am Messstab",
+      "source": "https://commons.wikimedia.org/wiki/File:Engine_oil_dipstick_reading_level.JPG",
+      "author": "Dvortygirl",
+      "license": "CC BY-SA 3.0"
+    },
+    {
+      "file": "motor-oelmessstab.jpg",
+      "topic": "motorraum",
+      "de": "der Ölmessstab",
+      "ru": "масляный щуп",
+      "shows": "Ölmessstab herausgezogen (Škoda Fabia)",
+      "source": "https://commons.wikimedia.org/wiki/File:Oil_dipstick_in_Škoda_Fabia_I,_engine_1,2_HTP.jpg",
+      "author": "Frettie",
+      "license": "CC BY 3.0"
+    },
+    {
+      "file": "motor-raum-uebersicht.jpg",
+      "topic": "motorraum",
+      "de": "der Motorraum",
+      "ru": "моторный отсек",
+      "shows": "Motorraum-Übersicht",
+      "source": "https://commons.wikimedia.org/wiki/File:Chevrolet_Volt_Engine_Bay_(5871298909).jpg",
+      "author": "InSapphoWeTrust from Los Angeles, California, USA",
+      "license": "CC BY-SA 2.0"
+    },
+    {
+      "file": "reifen-alpine-3pmsf.jpg",
+      "topic": "reifen",
+      "de": "das Alpine-Symbol (3PMSF) + M+S",
+      "ru": "символ снежинки (3PMSF) + M+S",
+      "shows": "3PMSF-Berg-Schneeflocke UND M+S-Kennzeichnung auf der Reifenflanke",
+      "source": "https://commons.wikimedia.org/wiki/File:3PSMF.jpg",
+      "author": "MatthewGhera",
+      "license": "CC BY 3.0"
+    },
+    {
+      "file": "reifen-profiltiefe-messen.jpg",
+      "topic": "reifen",
+      "de": "die Profiltiefe messen",
+      "ru": "измерение глубины протектора",
+      "shows": "Profiltiefenmesser am Reifen",
+      "source": "https://commons.wikimedia.org/wiki/File:TyreDepthGauge.JPG",
+      "author": "Simon Speed",
+      "license": "CC0"
+    },
+    {
+      "file": "reifen-twi-profil.jpg",
+      "topic": "reifen",
+      "de": "der TWI / Profilabnutzungsanzeiger",
+      "ru": "индикатор износа протектора (TWI)",
+      "shows": "TWI-Stege im Profil",
+      "source": "https://commons.wikimedia.org/wiki/File:Tread_Wear_Indicators_of_Studless_Tire.jpg",
+      "author": "VVVN",
+      "license": "CC BY 3.0"
+    },
+    {
+      "file": "reserverad.jpg",
+      "topic": "reifen",
+      "de": "das Reserverad / Ersatzrad",
+      "ru": "запасное колесо",
+      "shows": "Reserverad im Kofferraum-Fach",
+      "source": "https://commons.wikimedia.org/wiki/File:2005_white_Toyota_MR2_spare_tire_compartment.JPG",
+      "author": "BrokenSphere",
+      "license": "CC BY-SA 3.0"
+    },
+    {
+      "file": "cockpit-dashboard-kia.jpg",
+      "topic": "cockpit",
+      "de": "das Armaturenbrett",
+      "ru": "панель приборов",
+      "shows": "Cockpit/Armaturen (Kia Ceed)",
+      "source": "https://commons.wikimedia.org/wiki/File:Palubní_(přístrojová)_deska_automobilu_Kia_Ceed..jpg",
+      "author": "Krelyshy",
+      "license": "CC0"
+    },
+    {
+      "file": "cockpit-kombiinstrument-golf.jpg",
+      "topic": "cockpit",
+      "de": "das Kombiinstrument",
+      "ru": "приборная панель",
+      "shows": "Tacho + Drehzahlmesser (VW Golf IV)",
+      "source": "https://commons.wikimedia.org/wiki/File:1-1111_1999_vw_golf_4_TDI_66_kW_gauges_IMG_0412.JPG",
+      "author": "1-1111",
+      "license": "CC BY 3.0"
+    },
+    {
+      "file": "cockpit-warnleuchten-uebersicht.png",
+      "topic": "cockpit",
+      "de": "Kontrollleuchten-Übersicht",
+      "ru": "обзор контрольных ламп",
+      "shows": "viele Warnleuchten als Beispieltafel",
+      "source": "https://commons.wikimedia.org/wiki/File:Land_Rover_Llama_dash_warning_lights.png",
+      "author": "Nickt",
+      "license": "CC0"
+    },
+    {
+      "file": "sym-abblendlicht.png",
+      "topic": "kontrollleuchte",
+      "de": "die Abblendlichtkontrolle",
+      "ru": "ближний свет",
+      "shows": "Symbol schräge Strahlen — grün",
+      "source": "https://commons.wikimedia.org/wiki/File:Low_beam.png",
+      "author": "Soupeurfaive",
+      "license": "CC BY-SA 3.0"
+    },
+    {
+      "file": "sym-abs.png",
+      "topic": "kontrollleuchte",
+      "de": "die ABS-Kontrollleuchte",
+      "ru": "лампа ABS",
+      "shows": "Symbol ABS im Kreis — gelb",
+      "source": "https://commons.wikimedia.org/wiki/File:Anti-lock_braking_system_logo.png",
+      "author": "Soupeurfaive",
+      "license": "CC BY-SA 3.0"
+    },
+    {
+      "file": "sym-airbag.png",
+      "topic": "kontrollleuchte",
+      "de": "die Airbag-Kontrollleuchte",
+      "ru": "лампа подушек безопасности",
+      "shows": "Symbol Person mit Kugel — rot",
+      "source": "https://commons.wikimedia.org/wiki/File:Airbag.png",
+      "author": "Soupeurfaive",
+      "license": "CC BY-SA 3.0"
+    },
+    {
+      "file": "sym-batterie-ladung.png",
+      "topic": "kontrollleuchte",
+      "de": "die Ladekontrollleuchte",
+      "ru": "лампа зарядки АКБ",
+      "shows": "Symbol Batterie +/− — rot",
+      "source": "https://commons.wikimedia.org/wiki/File:Charge_batterie.png",
+      "author": "Soupeurfaive",
+      "license": "CC BY-SA 3.0"
+    },
+    {
+      "file": "sym-bremsanlage.png",
+      "topic": "kontrollleuchte",
+      "de": "die Bremsanlage-Warnleuchte",
+      "ru": "лампа тормозной системы",
+      "shows": "Symbol (!) im Kreis — rot",
+      "source": "https://commons.wikimedia.org/wiki/File:Brake_failure.png",
+      "author": "Soupeurfaive",
+      "license": "CC BY-SA 3.0"
+    },
+    {
+      "file": "sym-bremsbelag-verschleiss.png",
+      "topic": "kontrollleuchte",
+      "de": "der Bremsbelagverschleiß",
+      "ru": "износ тормозных колодок",
+      "shows": "Symbol Kreis mit gestrichelten Belägen",
+      "source": "https://commons.wikimedia.org/wiki/File:Worn_linings.png",
+      "author": "Soupeurfaive",
+      "license": "CC BY-SA 3.0"
+    },
+    {
+      "file": "sym-esp-traktion.png",
+      "topic": "kontrollleuchte",
+      "de": "die ESP-/Traktionskontrolle",
+      "ru": "ESP / антипробуксовка",
+      "shows": "Symbol Auto mit Schleuderspur — gelb",
+      "source": "https://commons.wikimedia.org/wiki/File:Traction_control.png",
+      "author": "Soupeurfaive",
+      "license": "CC BY-SA 3.0"
+    },
+    {
+      "file": "sym-fernlicht.png",
+      "topic": "kontrollleuchte",
+      "de": "die Fernlichtkontrolle",
+      "ru": "дальний свет",
+      "shows": "Symbol gerade Strahlen — blau",
+      "source": "https://commons.wikimedia.org/wiki/File:High_beam.png",
+      "author": "Soupeurfaive",
+      "license": "CC BY-SA 3.0"
+    },
+    {
+      "file": "sym-frontscheibenheizung.png",
+      "topic": "kontrollleuchte",
+      "de": "die Frontscheibenheizung",
+      "ru": "обогрев лобового стекла",
+      "shows": "Symbol Frontscheibe mit Wellen",
+      "source": "https://commons.wikimedia.org/wiki/File:Windscreen_defrost.png",
+      "author": "Soupeurfaive",
+      "license": "CC BY-SA 3.0"
+    },
+    {
+      "file": "sym-handbremse.png",
+      "topic": "kontrollleuchte",
+      "de": "die Feststellbremse-Leuchte",
+      "ru": "лампа стояночного тормоза",
+      "shows": "Symbol (P)/(!) im Kreis — rot",
+      "source": "https://commons.wikimedia.org/wiki/File:Parking_brake.png",
+      "author": "Soupeurfaive",
+      "license": "CC BY-SA 3.0"
+    },
+    {
+      "file": "sym-heckscheibenheizung.png",
+      "topic": "kontrollleuchte",
+      "de": "die Heckscheibenheizung",
+      "ru": "обогрев заднего стекла",
+      "shows": "Symbol Heckscheibe mit Wellen nach oben",
+      "source": "https://commons.wikimedia.org/wiki/File:Rear_window_defrost.png",
+      "author": "Soupeurfaive",
+      "license": "CC BY-SA 3.0"
+    },
+    {
+      "file": "sym-kuehlmitteltemp.png",
+      "topic": "kontrollleuchte",
+      "de": "die Kühlmitteltemperatur-Leuchte",
+      "ru": "перегрев / темп. ОЖ",
+      "shows": "Symbol Thermometer in Wellen — rot",
+      "source": "https://commons.wikimedia.org/wiki/File:Engine_coolant_temperature.png",
+      "author": "Soupeurfaive",
+      "license": "CC BY-SA 3.0"
+    },
+    {
+      "file": "sym-motorkontrolle.png",
+      "topic": "kontrollleuchte",
+      "de": "die Motorkontrollleuchte (MKL)",
+      "ru": "Check Engine",
+      "shows": "Symbol Motorblock — gelb",
+      "source": "https://commons.wikimedia.org/wiki/File:Engine_Malfunction_Indicator_Light.png",
+      "author": "Soupeurfaive",
+      "license": "CC BY-SA 3.0"
+    },
+    {
+      "file": "sym-nebelscheinwerfer.png",
+      "topic": "kontrollleuchte",
+      "de": "der Nebelscheinwerfer (vorn)",
+      "ru": "передние противотуманки",
+      "shows": "Symbol Strahlen links + Wellenlinie — grün",
+      "source": "https://commons.wikimedia.org/wiki/File:Front_fog_light.png",
+      "author": "Soupeurfaive",
+      "license": "CC BY-SA 3.0"
+    },
+    {
+      "file": "sym-nebelschluss.png",
+      "topic": "kontrollleuchte",
+      "de": "die Nebelschlussleuchte (hinten)",
+      "ru": "задний противотуман",
+      "shows": "Symbol Strahlen rechts + Wellenlinie — gelb",
+      "source": "https://commons.wikimedia.org/wiki/File:Rear_fog_light.png",
+      "author": "Soupeurfaive",
+      "license": "CC BY-SA 3.0"
+    },
+    {
+      "file": "sym-oeldruck.png",
+      "topic": "kontrollleuchte",
+      "de": "die Öldruckkontrollleuchte",
+      "ru": "лампа давления масла",
+      "shows": "Symbol Ölkanne — rot = sofort anhalten",
+      "source": "https://commons.wikimedia.org/wiki/File:Engine_oil.png",
+      "author": "Soupeurfaive",
+      "license": "CC BY-SA 3.0"
+    },
+    {
+      "file": "sym-reifendruck-rdks.png",
+      "topic": "kontrollleuchte",
+      "de": "die Reifendruckkontrolle (RDKS)",
+      "ru": "лампа давления в шинах (RDKS)",
+      "shows": "Symbol (!) im Reifenquerschnitt — gelb",
+      "source": "https://commons.wikimedia.org/wiki/File:Tyre_pressure.png",
+      "author": "Soupeurfaive",
+      "license": "CC BY-SA 3.0"
+    },
+    {
+      "file": "sym-scheibenwaschwasser.png",
+      "topic": "kontrollleuchte",
+      "de": "die Scheibenwaschanlage",
+      "ru": "омыватель стекла",
+      "shows": "Symbol Fontäne auf Scheibe",
+      "source": "https://commons.wikimedia.org/wiki/File:Windscreen_washer.png",
+      "author": "Soupeurfaive",
+      "license": "CC BY-SA 3.0"
+    },
+    {
+      "file": "sym-sicherheitsgurt.png",
+      "topic": "kontrollleuchte",
+      "de": "die Gurtwarnleuchte",
+      "ru": "напоминание о ремне",
+      "shows": "Symbol angeschnallte Person — rot",
+      "source": "https://commons.wikimedia.org/wiki/File:Seat_belt.png",
+      "author": "Soupeurfaive",
+      "license": "CC BY-SA 3.0"
+    },
+    {
+      "file": "sym-standlicht.png",
+      "topic": "kontrollleuchte",
+      "de": "das Standlicht / Begrenzungslicht",
+      "ru": "габаритные огни",
+      "shows": "Symbol Lampe mit seitlichen Strahlen — grün",
+      "source": "https://commons.wikimedia.org/wiki/File:Position_lights.png",
+      "author": "Soupeurfaive",
+      "license": "CC BY-SA 3.0"
+    },
+    {
+      "file": "sym-tankreserve.png",
+      "topic": "kontrollleuchte",
+      "de": "die Tankanzeige / Reserve",
+      "ru": "резерв топлива",
+      "shows": "Symbol Zapfsäule — gelb",
+      "source": "https://commons.wikimedia.org/wiki/File:Fuel.png",
+      "author": "Soupeurfaive",
+      "license": "CC BY-SA 3.0"
+    },
+    {
+      "file": "sym-vorgluehen-diesel.png",
+      "topic": "kontrollleuchte",
+      "de": "die Vorglühanzeige",
+      "ru": "свечи накала (дизель)",
+      "shows": "Symbol Glühwendel — gelb",
+      "source": "https://commons.wikimedia.org/wiki/File:Diesel_pre-heat.png",
+      "author": "Soupeurfaive",
+      "license": "CC BY-SA 3.0"
+    },
+    {
+      "file": "sym-warnblinkanlage.png",
+      "topic": "kontrollleuchte",
+      "de": "die Warnblinkanlage",
+      "ru": "аварийная сигнализация",
+      "shows": "Symbol rotes Dreieck",
+      "source": "https://commons.wikimedia.org/wiki/File:Hazard_warning.png",
+      "author": "Soupeurfaive",
+      "license": "CC BY-SA 3.0"
+    },
+    {
+      "file": "tuev-au-plakette.jpg",
+      "topic": "tuev",
+      "de": "die AU-Plakette",
+      "ru": "наклейка контроля выхлопа (AU)",
+      "shows": "AU-Plakette (Abgasuntersuchung)",
+      "source": "https://commons.wikimedia.org/wiki/File:AU-Plakette_10-2012.JPG",
+      "author": "User:Mattes",
+      "license": "Public domain"
+    },
+    {
+      "file": "tuev-hu-plakette.jpg",
+      "topic": "tuev",
+      "de": "die HU-Plakette (TÜV)",
+      "ru": "наклейка ТО (HU)",
+      "shows": "runde HU-Prüfplakette — Jahr in der Mitte",
+      "source": "https://commons.wikimedia.org/wiki/File:Hauptuntersuchung-Plakette_2015_-_4487.jpg",
+      "author": "Sven Teschke, Büdingen",
+      "license": "CC BY-SA 3.0 de"
+    },
+    {
+      "file": "notfall-verbandkasten.jpg",
+      "topic": "notfall",
+      "de": "der Verbandkasten",
+      "ru": "аптечка",
+      "shows": "geöffneter Kfz-Verbandkasten",
+      "source": "https://commons.wikimedia.org/wiki/File:Verbandkasten_BW_2024-01-15_18-31-06.jpg",
+      "author": "Berthold Werner",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "file": "notfall-warndreieck.jpg",
+      "topic": "notfall",
+      "de": "das Warndreieck",
+      "ru": "знак аварийной остановки",
+      "shows": "aufgestelltes Warndreieck",
+      "source": "https://commons.wikimedia.org/wiki/File:2024-08-31_Warndreieck_vor_Kurve.jpg",
+      "author": "Jaller94",
+      "license": "CC0"
+    },
+    {
+      "file": "notfall-warnweste.jpg",
+      "topic": "notfall",
+      "de": "die Warnweste",
+      "ru": "сигнальный жилет",
+      "shows": "gelbe Warnweste",
+      "source": "https://commons.wikimedia.org/wiki/File:Warnweste_gelb.jpg",
+      "author": "Magnus Mertens",
+      "license": "CC BY-SA 2.0 de"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" font-family="sans-serif">
+  <style>
+    .road { fill: #ddd; }
+    .markings { stroke: #fff; stroke-width: 2; stroke-dasharray: 8 6; }
+    .car-blue { fill: #1976d2; stroke: #0d47a1; stroke-width: 1.5; }
+    .car-red  { fill: #d32f2f; stroke: #b71c1c; stroke-width: 1.5; }
+    .car-grey { fill: #757575; stroke: #424242; stroke-width: 1.5; }
+    .arrow-yes { stroke: #2e7d32; stroke-width: 3; fill: none; marker-end: url(#arrYes); }
+    .arrow-no  { stroke: #c62828; stroke-width: 3; fill: none; stroke-dasharray: 6 4; marker-end: url(#arrNo); }
+    .lbl { font-size: 13px; fill: #111; }
+    .head { font-size: 15px; font-weight: 700; fill: #111; }
+    .ok { font-size: 16px; font-weight: 700; fill: #2e7d32; }
+    .stop { font-size: 16px; font-weight: 700; fill: #c62828; }
+  </style>
+  <defs>
+    <marker id="arrYes" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+      <path d="M0,0 L10,5 L0,10 z" fill="#2e7d32"/>
+    </marker>
+    <marker id="arrNo" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+      <path d="M0,0 L10,5 L0,10 z" fill="#c62828"/>
+    </marker>
+  </defs>
+
+  <text class="head" x="20" y="22">«Rechts vor links» — без знаков и светофоров</text>
+
+  <!-- horizontal road -->
+  <rect class="road" x="0" y="150" width="400" height="100"/>
+  <!-- vertical road -->
+  <rect class="road" x="150" y="0" width="100" height="400"/>
+  <!-- markings: dashed center -->
+  <line class="markings" x1="0" y1="200" x2="150" y2="200"/>
+  <line class="markings" x1="250" y1="200" x2="400" y2="200"/>
+  <line class="markings" x1="200" y1="0" x2="200" y2="150"/>
+  <line class="markings" x1="200" y1="250" x2="200" y2="400"/>
+
+  <!-- BLUE car coming from RIGHT (has priority) -->
+  <rect class="car-blue" x="350" y="170" width="34" height="20" rx="3"/>
+  <text class="lbl" x="345" y="165">справа</text>
+  <line class="arrow-yes" x1="350" y1="180" x2="260" y2="180"/>
+  <text class="ok" x="270" y="155">пропускают</text>
+
+  <!-- RED car going FORWARD from bottom (must yield) -->
+  <rect class="car-red" x="190" y="350" width="20" height="34" rx="3"/>
+  <text class="lbl" x="155" y="395">ты</text>
+  <line class="arrow-no" x1="200" y1="345" x2="200" y2="260"/>
+  <text class="stop" x="20" y="305">ждёшь</text>
+
+  <!-- GREY car from left (yields to BLUE too) -->
+  <rect class="car-grey" x="16" y="210" width="34" height="20" rx="3"/>
+  <text class="lbl" x="20" y="248">слева</text>
+  <line class="arrow-no" x1="50" y1="220" x2="140" y2="220"/>
+
+  <!-- explanation -->
+  <text class="lbl" x="20" y="360">КТО справа — у того приоритет.</text>
+  <text class="lbl" x="20" y="378">Не применяется на главной, при выезде со двора,</text>
+  <text class="lbl" x="20" y="396">с заниженного бордюра, из зоны 30 / Spielstraße.</text>
+</svg>

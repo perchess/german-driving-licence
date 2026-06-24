@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 280" font-family="sans-serif">
+  <style>
+    .bg    { fill: #f90; }
+    .border{ fill: none; stroke: #000; stroke-width: 6; }
+    .divider { stroke: #000; stroke-width: 5; }
+    .num   { font-size: 52px; font-weight: 700; fill: #000; text-anchor: middle; }
+    .lbl   { font-size: 13px; fill: #333; text-anchor: middle; }
+    .head  { font-size: 16px; font-weight: 700; fill: #111; }
+    .note  { font-size: 12px; fill: #444; }
+  </style>
+
+  <!-- Title -->
+  <text class="head" x="10" y="22">Orangefarbene Warntafel — Gefahrgut (ADR)</text>
+
+  <!-- Orange plate -->
+  <rect class="bg"     x="60"  y="40"  width="300" height="200" rx="4"/>
+  <rect class="border" x="60"  y="40"  width="300" height="200" rx="4"/>
+  <line class="divider" x1="60" y1="140" x2="360" y2="140"/>
+
+  <!-- Gefahrnummer (top) -->
+  <text class="num" x="210" y="122">33</text>
+
+  <!-- UN-Nummer (bottom) -->
+  <text class="num" x="210" y="222">1203</text>
+
+  <!-- Labels -->
+  <text class="lbl" x="210" y="60">Gefahrnummer (Kemler-Zahl)</text>
+  <text class="lbl" x="210" y="260">UN-Nummer</text>
+
+  <!-- Annotations -->
+  <text class="note" x="370" y="100">↑ код опасности:</text>
+  <text class="note" x="370" y="116">33 = сильно</text>
+  <text class="note" x="370" y="132">воспламеняющееся</text>
+  <text class="note" x="370" y="160">↓ вещество:</text>
+  <text class="note" x="370" y="176">1203 = Benzin</text>
+</svg>

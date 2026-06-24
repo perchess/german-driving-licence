@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 280" font-family="sans-serif">
+  <style>
+    .lbl { font-size: 14px; fill: #222; }
+    .num { font-size: 13px; fill: #444; }
+    .head { font-size: 16px; font-weight: 700; fill: #111; }
+    .bar30 { fill: #4caf50; }
+    .bar50 { fill: #ffc107; }
+    .bar100 { fill: #f44336; }
+    .reac { fill: #777; opacity: 0.6; }
+    .ax { stroke: #aaa; stroke-width: 1; }
+    .tick { stroke: #aaa; stroke-width: 1; }
+  </style>
+  <text class="head" x="20" y="22">Anhalteweg = Reaktionsweg + Bremsweg (нормальное торможение)</text>
+
+  <!-- Scale legend -->
+  <g transform="translate(20, 40)">
+    <rect class="reac" x="0" y="0" width="20" height="14"/>
+    <text class="num" x="26" y="11">реакция (1 сек) = v/10 × 3 м</text>
+    <rect class="bar50" x="220" y="0" width="20" height="14"/>
+    <text class="num" x="246" y="11">тормозной путь = (v/10)² м</text>
+  </g>
+
+  <!-- Axis -->
+  <line class="ax" x1="20" y1="250" x2="620" y2="250"/>
+  <!-- Tick marks every 25 m -->
+  <g>
+    <line class="tick" x1="20" y1="245" x2="20" y2="255"/><text class="num" x="14" y="270">0</text>
+    <line class="tick" x1="170" y1="245" x2="170" y2="255"/><text class="num" x="158" y="270">50 м</text>
+    <line class="tick" x1="320" y1="245" x2="320" y2="255"/><text class="num" x="304" y="270">100 м</text>
+    <line class="tick" x1="470" y1="245" x2="470" y2="255"/><text class="num" x="454" y="270">150 м</text>
+    <line class="tick" x1="620" y1="245" x2="620" y2="255"/><text class="num" x="604" y="270">200 м</text>
+  </g>
+
+  <!-- 30 km/h: reac 9 m + brems 9 m = 18 m -->
+  <g transform="translate(20, 75)">
+    <text class="lbl" x="0" y="14">30 км/ч</text>
+    <rect class="reac" x="70" y="2" width="27" height="16"/>
+    <rect class="bar30" x="97" y="2" width="27" height="16"/>
+    <text class="num" x="130" y="14">9 + 9 = 18 м</text>
+  </g>
+
+  <!-- 50 km/h: reac 15 m + brems 25 m = 40 m -->
+  <g transform="translate(20, 110)">
+    <text class="lbl" x="0" y="14">50 км/ч</text>
+    <rect class="reac" x="70" y="2" width="45" height="16"/>
+    <rect class="bar50" x="115" y="2" width="75" height="16"/>
+    <text class="num" x="196" y="14">15 + 25 = 40 м</text>
+  </g>
+
+  <!-- 80 km/h: reac 24 m + brems 64 m = 88 m -->
+  <g transform="translate(20, 145)">
+    <text class="lbl" x="0" y="14">80 км/ч</text>
+    <rect class="reac" x="70" y="2" width="72" height="16"/>
+    <rect class="bar50" x="142" y="2" width="192" height="16"/>
+    <text class="num" x="340" y="14">24 + 64 = 88 м</text>
+  </g>
+
+  <!-- 100 km/h: reac 30 + brems 100 = 130 m -->
+  <g transform="translate(20, 180)">
+    <text class="lbl" x="0" y="14">100 км/ч</text>
+    <rect class="reac" x="70" y="2" width="90" height="16"/>
+    <rect class="bar100" x="160" y="2" width="300" height="16"/>
+    <text class="num" x="466" y="14">30 + 100 = 130 м</text>
+  </g>
+
+  <!-- 130 km/h: reac 39 + brems 169 = 208 m -->
+  <g transform="translate(20, 215)">
+    <text class="lbl" x="0" y="14">130 км/ч</text>
+    <rect class="reac" x="70" y="2" width="117" height="16"/>
+    <rect class="bar100" x="187" y="2" width="413" height="16"/>
+    <text class="num" x="500" y="32">≈ 39 + 169 = 208 м</text>
+  </g>
+</svg>

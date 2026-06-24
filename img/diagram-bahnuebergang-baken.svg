@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 240" font-family="sans-serif">
+  <style>
+    .head { font-size: 16px; font-weight: 700; fill: #111; }
+    .lbl { font-size: 13px; fill: #111; }
+    .num { font-size: 14px; font-weight: 700; fill: #c62828; }
+    .post { fill: #fff; stroke: #c62828; stroke-width: 3; }
+    .stripe { stroke: #c62828; stroke-width: 4; }
+  </style>
+  <text class="head" x="20" y="22">Baken (полосатые столбики) перед ж/д переездом</text>
+  <text class="lbl" x="20" y="44">Считай красные полосы → знаешь дистанцию до переезда</text>
+
+  <!-- 3 stripes / 240 m -->
+  <g transform="translate(20, 70)">
+    <rect class="post" x="0" y="0" width="80" height="120"/>
+    <line class="stripe" x1="10" y1="22" x2="70" y2="22"/>
+    <line class="stripe" x1="10" y1="60" x2="70" y2="60"/>
+    <line class="stripe" x1="10" y1="98" x2="70" y2="98"/>
+    <text class="num" x="6" y="148">240 м</text>
+    <text class="lbl" x="0" y="170">3 полосы</text>
+    <text class="lbl" x="0" y="188">(самый дальний)</text>
+  </g>
+
+  <!-- 2 stripes / 160 m -->
+  <g transform="translate(220, 70)">
+    <rect class="post" x="0" y="0" width="80" height="120"/>
+    <line class="stripe" x1="10" y1="32" x2="70" y2="32"/>
+    <line class="stripe" x1="10" y1="78" x2="70" y2="78"/>
+    <text class="num" x="6" y="148">160 м</text>
+    <text class="lbl" x="0" y="170">2 полосы</text>
+  </g>
+
+  <!-- 1 stripe / 80 m -->
+  <g transform="translate(420, 70)">
+    <rect class="post" x="0" y="0" width="80" height="120"/>
+    <line class="stripe" x1="10" y1="50" x2="70" y2="50"/>
+    <text class="num" x="6" y="148">80 м</text>
+    <text class="lbl" x="0" y="170">1 полоса</text>
+    <text class="lbl" x="0" y="188">(самый близкий)</text>
+  </g>
+
+  <text class="lbl" x="20" y="226">Каждая полоса = ~80 м. Снижай скорость пропорционально оставшимся.</text>
+</svg>

@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 240" font-family="sans-serif">
+  <style>
+    .road { fill: #ddd; }
+    .markings { stroke: #fff; stroke-width: 2; stroke-dasharray: 10 8; }
+    .edge { stroke: #fff; stroke-width: 3; fill: none; }
+    .car-blue { fill: #1976d2; }
+    .car-red  { fill: #d32f2f; }
+    .car-green { fill: #388e3c; }
+    .car-purple { fill: #6a1b9a; }
+    .lbl { font-size: 13px; fill: #111; }
+    .head { font-size: 16px; font-weight: 700; fill: #111; }
+    .arrow { stroke: #555; stroke-width: 2; fill: none; marker-end: url(#arrG); }
+    .barred { stroke: #c62828; stroke-width: 3; }
+  </style>
+  <defs>
+    <marker id="arrG" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+      <path d="M0,0 L10,5 L0,10 z" fill="#555"/>
+    </marker>
+  </defs>
+
+  <text class="head" x="20" y="22">Reißverschlussverfahren — «застёжка-молния» при сужении</text>
+
+  <!-- Road: two lanes that merge to one -->
+  <rect class="road" x="0" y="50" width="600" height="160"/>
+  <line class="edge" x1="0" y1="50" x2="600" y2="50"/>
+  <line class="edge" x1="0" y1="210" x2="600" y2="210"/>
+  <!-- center dashes -->
+  <line class="markings" x1="0" y1="130" x2="380" y2="130"/>
+  <!-- lane ending (slope) -->
+  <line class="edge" x1="0" y1="130" x2="380" y2="130" stroke="#fff" stroke-dasharray="0" />
+  <line class="edge" x1="380" y1="130" x2="500" y2="210"/>
+
+  <!-- Cars in continuing lane (top) -->
+  <rect class="car-blue" x="40" y="75" width="40" height="22" rx="3"/>
+  <rect class="car-blue" x="120" y="75" width="40" height="22" rx="3"/>
+  <rect class="car-blue" x="200" y="75" width="40" height="22" rx="3"/>
+  <text class="lbl" x="40" y="115">→ продолжающая полоса</text>
+
+  <!-- Cars in ending lane (bottom) — drive to the very end -->
+  <rect class="car-red" x="40" y="160" width="40" height="22" rx="3"/>
+  <rect class="car-red" x="120" y="160" width="40" height="22" rx="3"/>
+  <rect class="car-red" x="200" y="160" width="40" height="22" rx="3"/>
+  <text class="lbl" x="40" y="200">→ заканчивающаяся полоса (ехать до конца!)</text>
+
+  <!-- Merge zone — alternating -->
+  <rect class="car-blue" x="380" y="110" width="40" height="22" rx="3"/>
+  <rect class="car-red" x="430" y="110" width="40" height="22" rx="3"/>
+  <rect class="car-blue" x="480" y="110" width="40" height="22" rx="3"/>
+  <rect class="car-red" x="530" y="110" width="40" height="22" rx="3"/>
+
+  <text class="lbl" x="395" y="100">по одному — поочерёдно</text>
+  <text class="lbl" x="395" y="150">«молния»: blue – red – blue – red</text>
+
+  <text class="head" x="20" y="232">Кто в продолжающей — ОБЯЗАН пропустить одного из заканчивающейся</text>
+</svg>

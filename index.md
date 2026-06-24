@@ -117,10 +117,10 @@ updates:
 
 ### Дети у зебры и в трафике
 
-![[zeichen-136-kinder.svg|140]]
+![](img/zeichen-136-kinder.svg)
 *Zeichen 136 «Achtung Kinder» — рядом школа, детсад, игровая площадка. Готовься: ребёнок может выскочить.*
 
-![[kat-1.1.02-024-B.jpg|460]]
+![](img/kat-1.1.02-024-B.jpg)
 *Типичная ситуация из каталога: дети у тротуара. Жди иррациональных движений — выбегут, развернутся, побегут за мячом.*
 
 Дети **не имеют** взрослого понимания ПДД. На зебре (*Zebrastreifen, Fußgängerüberweg*) они могут:
@@ -135,7 +135,7 @@ updates:
 
 ### Пешеходы — особые случаи
 
-![[kat-1.1.02-032.jpg|420]]
+![](img/kat-1.1.02-032.jpg)
 *Жёлтая повязка с тремя чёрными точками = слабовидящий или слепой пешеход. По закону — обязан пропустить, при необходимости остановиться.*
 
 - **Белая трость + жёлтая повязка** = слепой или сильное нарушение зрения. Жёлтая повязка с **тремя чёрными точками** = слабовидящий/слепой пешеход. Обязанность: пропустить, при необходимости — остановиться.
@@ -145,7 +145,7 @@ updates:
 
 ### Автобус с включённой «аварийкой» на остановке
 
-![[zeichen-224-haltestelle.svg|120]] ![[kat-1.1.02-122.jpg|400]]
+![](img/zeichen-224-haltestelle.svg) ![](img/kat-1.1.02-122.jpg)
 *Знак «H» (Zeichen 224) маркирует автобусную/трамвайную остановку. Справа — реальная ситуация: автобус с аварийкой = школьники/пассажиры выходят на проезжую часть.*
 
 - Если автобус **ещё движется** с аварийкой — **не обгонять**.
@@ -155,7 +155,7 @@ updates:
 
 ### Трамвай на остановке
 
-![[kat-1.1.02-116.jpg|440]]
+![](img/kat-1.1.02-116.jpg)
 *Трамвай остановился, посадочного острова нет — мимо только Schrittgeschwindigkeit (≈7 км/ч), при необходимости полная остановка.*
 
 - Без посадочного острова: проезжать справа от трамвая **только Schrittgeschwindigkeit** и только если пассажиры не задерживаются и не подвергаются риску.
@@ -179,7 +179,7 @@ updates:
 
 **При нефти/масле на дороге** (*Öl auf der Fahrbahn*):
 
-![[kat-1.1.03-005.jpg|440]]
+![](img/kat-1.1.03-005.jpg)
 *Масляное пятно на дороге — резкие манёвры противопоказаны. Сообщить пожарным, чтобы посыпали связывающим веществом.*
 
 - Избегать резких манёвров.
@@ -194,7 +194,7 @@ updates:
 
 ### Темнота, ослепление
 
-![[kat-1.1.04-103-B.jpg|440]]
+![](img/kat-1.1.04-103-B.jpg)
 *Ослепили дальним светом — НЕ смотри в свет. Смотри на правый край дороги, при необходимости снижай скорость или останавливайся.*
 
 - **Из освещённой улицы в тёмную**: глаза перестраиваются медленно → снизить скорость, ориентироваться на правый край.
@@ -204,7 +204,7 @@ updates:
 
 ### Узкие/неосматриваемые повороты
 
-![[kat-1.1.07-006-B.jpg|440]]
+![](img/kat-1.1.07-006-B.jpg)
 *Узкий, плохо просматриваемый поворот — сбрасывай скорость ДО входа, газ — только на выходе. Резкое торможение в повороте = занос.*
 
 - **Сначала снизить скорость**, только **на выходе** из поворота снова разгоняться.
@@ -240,7 +240,7 @@ updates:
 
 ### Грузовик поворачивает направо в узкую улицу
 
-![[kat-1.1.07-137.jpg|440]]
+![](img/kat-1.1.07-137.jpg)
 *Поворот направо: справа может быть велосипедист в слепом пятне. Schrittgeschwindigkeit, Schulterblick, при сомнении — не поворачивать.*
 
 - Сильно тормозит.
@@ -284,7 +284,7 @@ updates:
 
 ### Скорость и тормозной путь — формулы
 
-![[diagram-bremsweg.svg|620]]
+![](img/diagram-bremsweg.svg)
 *Anhalteweg = Reaktionsweg (серая часть) + Bremsweg (цветная). На 100 км/ч — целых 130 м: длина футбольного поля.*
 
 **Скорость в секунду** (расстояние за 1 секунду в метрах):
@@ -339,7 +339,7 @@ updates:
 
 ### Обгон — боковые интервалы (Seitenabstand)
 
-![[diagram-seitenabstand.svg|620]]
+![](img/diagram-seitenabstand.svg)
 *С 2020 года: 1,5 м в городе, 2,0 м вне города — между корпусом обгоняющего и велосипедистом. Не выдерживаешь — едешь сзади.*
 
 С 2020 года в StVO:
@@ -380,7 +380,7 @@ updates:
 
 ### Левый поворот: кому уступать
 
-![[diagram-abbiegen-links.svg|460]]
+![](img/diagram-abbiegen-links.svg)
 *Левый поворот: пропускаешь всё встречное И пешеходов в улице, в которую заезжаешь. Два навстречу налево — voreinander (друг ПЕРЕД другом), если перекрёсток позволяет.*
 
 **Уступаем при левом повороте:**
@@ -393,7 +393,7 @@ updates:
 
 ### Многополосные повороты
 
-![[kat-1.2.09-103-B.jpg|440]]
+![](img/kat-1.2.09-103-B.jpg)
 *Все три авто хотят налево — правильно перестроились те, кто к ЛЕВОМУ краю своей полосы (или в выделенную полосу левого поворота).*
 
 Опасности:
@@ -402,7 +402,7 @@ updates:
 
 ### Круговое движение (Kreisverkehr)
 
-![[zeichen-215-kreisverkehr.svg|140]]
+![](img/zeichen-215-kreisverkehr.svg)
 *Zeichen 215 «Kreisverkehr». На въезде уступаешь круговому потоку, поворотник НЕ включаешь. На выезде — правый поворотник.*
 
 - На выезде — **поворотник**.
@@ -468,7 +468,7 @@ updates:
 
 ### Смена полосы и сужения (Reißverschluss)
 
-![[diagram-reissverschluss.svg|620]]
+![](img/diagram-reissverschluss.svg)
 *«Молния»: едь до самого конца своей полосы, потом по одному вклинивайся. Кто в продолжающей — ОБЯЗАН пропустить одного из заканчивающейся.*
 
 - **Поворотник + взгляд через плечо + зеркало**.
@@ -483,7 +483,7 @@ updates:
 
 ### Ж/д переезды (Bahnübergänge)
 
-![[zeichen-201-andreaskreuz.svg|140]] ![[kat-1.2.19-109.jpg|360]]
+![](img/zeichen-201-andreaskreuz.svg) ![](img/kat-1.2.19-109.jpg)
 *Andreaskreuz (Z 201) — обязательная остановка, если красный мигает, шлагбаум опускается/закрыт, или слышен поезд. Поезд имеет приоритет ВСЕГДА.*
 
 **Жди перед Andreaskreuz** (косой крест), если:
@@ -525,7 +525,7 @@ updates:
 - Сзади выступ **более 1 м** за катафоты (Rückstrahler) → нужна красная лампа (Leuchte) + красный отражатель (Rückstrahler).
   - Лампа (Leuchte): макс. **1,5 м** над дорогой.
   - Отражатель (Rückstrahler): макс. **0,9 м** над дорогой (на высоте штатных катафотов авто).
-- **Оранжевая табличка** = опасный груз (*Gefahrguttransport*). ![[diagram-gefahrgut-tafel.svg|360]]
+- **Оранжевая табличка** = опасный груз (*Gefahrguttransport*). ![](img/diagram-gefahrgut-tafel.svg)
 - 20% перегруза → перегрев тормозов, ухудшение управляемости, повреждение несущих узлов.
 
 ### Освещение машины
@@ -572,7 +572,7 @@ updates:
 
 ### Пешеходные переходы (Zebrastreifen)
 
-![[kat-1.2.36-101-B.jpg|440]]
+![](img/kat-1.2.36-101-B.jpg)
 *Перед зеброй: обгон запрещён, парковка/остановка запрещена 5 м **до** (после — разрешено), скорость — готовность остановиться.*
 
 - **Обгон** — запрещён до и на зебре.
@@ -585,7 +585,7 @@ updates:
 
 ### Светофор и «зелёная стрелка» (Grünpfeil)
 
-![[ampel-3-states.svg|180]] ![[zeichen-720-gruenpfeil.svg|140]] ![[kat-1.2.37-007.jpg|320]]
+![](img/ampel-3-states.svg) ![](img/zeichen-720-gruenpfeil.svg) ![](img/kat-1.2.37-007.jpg)
 *Слева — обычный 3-секционный светофор. По центру — Grünpfeil-Schild (Z 720): чёрный квадрат с зелёной стрелкой ВПРАВО на красном — разрешает поворот направо после полной остановки. Справа — реальный пример: светофор + Grünpfeil рядом.*
 
 - **Зелёная стрелка** (черный знак, зелёная стрелка вправо) при красном светофоре → разрешает **поворот направо** после **полной остановки на стоп-линии** и при условии, что **никому не помешаешь**.
@@ -650,10 +650,10 @@ updates:
 
 ### «Rechts vor links» (§ 8 Abs. 1 StVO)
 
-![[diagram-rechts-vor-links.svg|400]]
+![](img/diagram-rechts-vor-links.svg)
 *Без знаков, без светофора: кто справа — у того приоритет. Не работает на главной, при выезде со двора/полевой/зоны 30.*
 
-![[kat-1.3.01-052.jpg|420]]
+![](img/kat-1.3.01-052.jpg)
 *Реальный перекрёсток равнозначных без знаков. Машина справа имеет преимущество.*
 
 **По умолчанию** на перекрёстках и въездах **без** регулирующих знаков и **без** светофоров — **уступаешь тому, кто справа** (*rechts vor links*).
@@ -664,7 +664,7 @@ updates:
 
 ### Главная дорога (Vorfahrtstraße)
 
-![[zeichen-306-vorfahrtstrasse.svg|140]] ![[zeichen-301-vorfahrt.svg|140]]
+![](img/zeichen-306-vorfahrtstrasse.svg) ![](img/zeichen-301-vorfahrt.svg)
 *Слева — Z 306 «Vorfahrtstraße» (главная), действует на всех перекрёстках до знака отмены. Справа — Z 301 «Vorfahrt» (приоритет на одном конкретном перекрёстке).*
 
 - Знак «жёлтый ромб» (*Vorfahrtstraße*) → твоё преимущество на всех перекрёстках, пока не появится «конец главной» (тот же знак, перечёркнутый).
@@ -686,7 +686,7 @@ updates:
 
 ### Левый поворот через главную: кому уступаешь
 
-![[kat-1.3.01-112.jpg|420]]
+![](img/kat-1.3.01-112.jpg)
 *Хочешь налево — встречный (даже если он обгоняет на встречной полосе!) имеет приоритет. На главной обгоняющий тоже едет по главной.*
 
 Всему: и встречным, и тем, кто на главной обгоняет — даже на встречке (они в зоне обгона тоже едут по главной, поэтому имеют приоритет).
@@ -714,43 +714,43 @@ updates:
 **Действия при любом Gefahrzeichen:** снизить скорость, быть **готовым к торможению** (*bremsbereit*), не обгонять, держать бóльшую дистанцию, рулить плавно.
 
 
-![[zeichen-101-gefahrstelle.svg|74]] **Z 101 Gefahrstelle** — Опасное место (общий «!»; конкретику даёт табличка)
+![](img/zeichen-101-gefahrstelle.svg) **Z 101 Gefahrstelle** — Опасное место (общий «!»; конкретику даёт табличка)
 
-![[zeichen-102-kreuzung-vorfahrt-rechts.svg|74]] **Z 102 Kreuzung mit Vorfahrt von rechts** — Перекрёсток равнозначных — rechts vor links
+![](img/zeichen-102-kreuzung-vorfahrt-rechts.svg) **Z 102 Kreuzung mit Vorfahrt von rechts** — Перекрёсток равнозначных — rechts vor links
 
-![[zeichen-103-kurve.svg|74]] **Z 103 Kurve** — Опасный поворот
+![](img/zeichen-103-kurve.svg) **Z 103 Kurve** — Опасный поворот
 
-![[zeichen-105-doppelkurve.svg|74]] **Z 105 Doppelkurve** — Двойной поворот
+![](img/zeichen-105-doppelkurve.svg) **Z 105 Doppelkurve** — Двойной поворот
 
-![[zeichen-108-gefaelle.svg|74]] **Z 108 Gefälle** — Спуск (стрелка/процент ВНИЗ)
+![](img/zeichen-108-gefaelle.svg) **Z 108 Gefälle** — Спуск (стрелка/процент ВНИЗ)
 
-![[zeichen-110-steigung.svg|74]] **Z 110 Steigung** — Подъём (стрелка/процент ВВЕРХ)
+![](img/zeichen-110-steigung.svg) **Z 110 Steigung** — Подъём (стрелка/процент ВВЕРХ)
 
-![[zeichen-112-unebene-fahrbahn.svg|74]] **Z 112 Unebene Fahrbahn** — Неровная дорога
+![](img/zeichen-112-unebene-fahrbahn.svg) **Z 112 Unebene Fahrbahn** — Неровная дорога
 
-![[zeichen-114-schleudergefahr.svg|74]] **Z 114 Schleuder- oder Rutschgefahr** — Скользко (особ. при мокроте/грязи)
+![](img/zeichen-114-schleudergefahr.svg) **Z 114 Schleuder- oder Rutschgefahr** — Скользко (особ. при мокроте/грязи)
 
-![[zeichen-117-seitenwind.svg|74]] **Z 117 Seitenwind** — Боковой ветер (ветроуказатель)
+![](img/zeichen-117-seitenwind.svg) **Z 117 Seitenwind** — Боковой ветер (ветроуказатель)
 
-![[zeichen-120-verengte-fahrbahn.svg|74]] **Z 120 Verengte Fahrbahn** — Сужение с двух сторон
+![](img/zeichen-120-verengte-fahrbahn.svg) **Z 120 Verengte Fahrbahn** — Сужение с двух сторон
 
-![[zeichen-121-einseitig-verengte-fahrbahn.svg|74]] **Z 121 Einseitig verengte Fahrbahn** — Сужение с одной стороны
+![](img/zeichen-121-einseitig-verengte-fahrbahn.svg) **Z 121 Einseitig verengte Fahrbahn** — Сужение с одной стороны
 
-![[zeichen-123-arbeitsstelle.svg|74]] **Z 123 Arbeitsstelle** — Дорожные работы (Baustelle)
+![](img/zeichen-123-arbeitsstelle.svg) **Z 123 Arbeitsstelle** — Дорожные работы (Baustelle)
 
-![[zeichen-124-stau.svg|74]] **Z 124 Stau** — Затор
+![](img/zeichen-124-stau.svg) **Z 124 Stau** — Затор
 
-![[zeichen-125-gegenverkehr.svg|74]] **Z 125 Gegenverkehr** — Встречное движение
+![](img/zeichen-125-gegenverkehr.svg) **Z 125 Gegenverkehr** — Встречное движение
 
-![[zeichen-131-lichtzeichenanlage.svg|74]] **Z 131 Lichtzeichenanlage** — Светофор впереди
+![](img/zeichen-131-lichtzeichenanlage.svg) **Z 131 Lichtzeichenanlage** — Светофор впереди
 
-![[zeichen-133-fussgaenger.svg|74]] **Z 133 Fußgänger** — Пешеходы
+![](img/zeichen-133-fussgaenger.svg) **Z 133 Fußgänger** — Пешеходы
 
-![[zeichen-136-kinder.svg|74]] **Z 136 Kinder** — Дети
+![](img/zeichen-136-kinder.svg) **Z 136 Kinder** — Дети
 
-![[zeichen-138-radverkehr.svg|74]] **Z 138 Radverkehr** — Велосипедисты
+![](img/zeichen-138-radverkehr.svg) **Z 138 Radverkehr** — Велосипедисты
 
-![[zeichen-142-wildwechsel.svg|74]] **Z 142 Wildwechsel** — Дикие животные
+![](img/zeichen-142-wildwechsel.svg) **Z 142 Wildwechsel** — Дикие животные
 
 
 > **Z 101 Gefahrstelle** — это «контейнер»: смысл опасности задаёт **доп.табличка снизу**. Через неё выражаются и частные случаи, которые раньше были отдельными знаками: *Schnee-/Eisglätte* (гололёд), *Steinschlag* (камнепад), *Splitt/Schotter* (щебень), *Viehtrieb* (перегон скота), *bewegliche Brücke* (подъёмный мост), *Ufer* (берег), *Amphibienwanderung*, *Flugbetrieb*. Узнавай знак **по форме треугольника + символу**, а не по номеру.
@@ -761,37 +761,37 @@ updates:
 Поезд имеет приоритет **всегда**. Перед **Andreaskreuz** (Z 201) уступи; при красной мигалке / опускающемся шлагбауме / слышимом поезде — **стой**.
 
 
-![[zeichen-151-bahnuebergang.svg|74]] **Z 151 Bahnübergang** — Ж/д переезд (треугольник)
+![](img/zeichen-151-bahnuebergang.svg) **Z 151 Bahnübergang** — Ж/д переезд (треугольник)
 
-![[zeichen-201-andreaskreuz.svg|74]] **Z 201 Andreaskreuz** — Андреевский крест — уступи поезду
+![](img/zeichen-201-andreaskreuz.svg) **Z 201 Andreaskreuz** — Андреевский крест — уступи поезду
 
-![[zeichen-157-bake-3.svg|74]] **Z 157 Dreistreifige Bake** — 3 полосы = 240 м до переезда
+![](img/zeichen-157-bake-3.svg) **Z 157 Dreistreifige Bake** — 3 полосы = 240 м до переезда
 
-![[zeichen-159-bake-2.svg|74]] **Z 159 Zweistreifige Bake** — 2 полосы = 160 м
+![](img/zeichen-159-bake-2.svg) **Z 159 Zweistreifige Bake** — 2 полосы = 160 м
 
-![[zeichen-162-bake-1.svg|74]] **Z 162 Einstreifige Bake** — 1 полоса = 80 м
+![](img/zeichen-162-bake-1.svg) **Z 162 Einstreifige Bake** — 1 полоса = 80 м
 
 
-![[diagram-bahnuebergang-baken.svg|600]]
+![](img/diagram-bahnuebergang-baken.svg)
 *Baken (полосатые столбики) отсчитывают расстояние до переезда: **3 полосы = 240 м**, **2 = 160 м**, **1 = 80 м**.*
 
 
 ### Vorfahrt / Vorrang — приоритет
 
 
-![[zeichen-205-vorfahrt-gewaehren.svg|74]] **Z 205 Vorfahrt gewähren** — Уступи дорогу (треугольник вниз)
+![](img/zeichen-205-vorfahrt-gewaehren.svg) **Z 205 Vorfahrt gewähren** — Уступи дорогу (треугольник вниз)
 
-![[zeichen-206-stop.svg|74]] **Z 206 Halt! Vorfahrt gewähren (STOP)** — СТОП — обязательная остановка
+![](img/zeichen-206-stop.svg) **Z 206 Halt! Vorfahrt gewähren (STOP)** — СТОП — обязательная остановка
 
-![[zeichen-208-gegenverkehr-vorrang-gewaehren.svg|74]] **Z 208 Dem Gegenverkehr Vorrang gewähren** — Уступи встречному (красный)
+![](img/zeichen-208-gegenverkehr-vorrang-gewaehren.svg) **Z 208 Dem Gegenverkehr Vorrang gewähren** — Уступи встречному (красный)
 
-![[zeichen-301-vorfahrt.svg|74]] **Z 301 Vorfahrt** — Приоритет на ближайшем перекрёстке
+![](img/zeichen-301-vorfahrt.svg) **Z 301 Vorfahrt** — Приоритет на ближайшем перекрёстке
 
-![[zeichen-306-vorfahrtstrasse.svg|74]] **Z 306 Vorfahrtstraße** — Главная дорога
+![](img/zeichen-306-vorfahrtstrasse.svg) **Z 306 Vorfahrtstraße** — Главная дорога
 
-![[zeichen-307-ende-vorfahrtstrasse.svg|74]] **Z 307 Ende der Vorfahrtstraße** — Конец главной дороги
+![](img/zeichen-307-ende-vorfahrtstrasse.svg) **Z 307 Ende der Vorfahrtstraße** — Конец главной дороги
 
-![[zeichen-308-vorrang-vor-gegenverkehr.svg|74]] **Z 308 Vorrang vor dem Gegenverkehr** — Приоритет перед встречным (синий)
+![](img/zeichen-308-vorrang-vor-gegenverkehr.svg) **Z 308 Vorrang vor dem Gegenverkehr** — Приоритет перед встречным (синий)
 
 
 > **Не путать 208 и 308:** **красный** Z 208 = «уступи встречному» (у тебя помеха, напр. сужение); **синий** Z 308 = «у тебя приоритет перед встречным». **Z 205 vs 206:** при Z 205 останавливаться не обязательно, если видно, что свободно; при Z 206 (STOP) — **полная остановка обязательна** у стоп-линии. **Z 306** действует на всех перекрёстках до Z 307; доп.табличка показывает **abknickende Vorfahrtstraße** (главная уходит в сторону — туда же сигналь поворотником).
@@ -802,13 +802,13 @@ updates:
 **Синий круг** = указание (что делать), в отличие от красного = запрета.
 
 
-![[zeichen-209-vorgeschriebene-fahrtrichtung.svg|74]] **Z 209 Vorgeschriebene Fahrtrichtung** — Предписанное направление (стрелка)
+![](img/zeichen-209-vorgeschriebene-fahrtrichtung.svg) **Z 209 Vorgeschriebene Fahrtrichtung** — Предписанное направление (стрелка)
 
-![[zeichen-215-kreisverkehr.svg|74]] **Z 215 Kreisverkehr** — Круговое движение
+![](img/zeichen-215-kreisverkehr.svg) **Z 215 Kreisverkehr** — Круговое движение
 
-![[zeichen-220-einbahnstrasse.svg|74]] **Z 220 Einbahnstraße** — Одностороннее движение
+![](img/zeichen-220-einbahnstrasse.svg) **Z 220 Einbahnstraße** — Одностороннее движение
 
-![[zeichen-222-vorbeifahrt.svg|74]] **Z 222 Vorgeschriebene Vorbeifahrt** — Объезд препятствия (справа/слева)
+![](img/zeichen-222-vorbeifahrt.svg) **Z 222 Vorgeschriebene Vorbeifahrt** — Объезд препятствия (справа/слева)
 
 
 > Даже при предписанном направлении **поворотник обязателен**. На **круге** (Z 215): на въезде поворотник **не** включаешь и уступаешь кругу, на выезде — **правый** поворотник. **Vorbeifahrt** (Z 222) — это объезд препятствия, а **не поворот**: поворотник не нужен.
@@ -819,33 +819,33 @@ updates:
 **Красная кайма** = запрет/ограничение. Действует до знака отмены, перекрёстка или указанного на табличке участка.
 
 
-![[zeichen-250-verbot-alle-fahrzeuge.svg|74]] **Z 250 Verbot für Fahrzeuge aller Art** — Въезд запрещён всем ТС
+![](img/zeichen-250-verbot-alle-fahrzeuge.svg) **Z 250 Verbot für Fahrzeuge aller Art** — Въезд запрещён всем ТС
 
-![[zeichen-251-verbot-kraftwagen.svg|74]] **Z 251 Verbot für Kraftwagen** — Запрет для легковых/мех. ТС
+![](img/zeichen-251-verbot-kraftwagen.svg) **Z 251 Verbot für Kraftwagen** — Запрет для легковых/мех. ТС
 
-![[zeichen-253-verbot-lkw.svg|74]] **Z 253 Verbot für Kfz über 3,5 t** — Запрет для грузовиков >3,5 т
+![](img/zeichen-253-verbot-lkw.svg) **Z 253 Verbot für Kfz über 3,5 t** — Запрет для грузовиков >3,5 т
 
-![[zeichen-254-verbot-radfahrer.svg|74]] **Z 254 Verbot für Radfahrer** — Запрет для велосипедистов
+![](img/zeichen-254-verbot-radfahrer.svg) **Z 254 Verbot für Radfahrer** — Запрет для велосипедистов
 
-![[zeichen-255-verbot-kraftraeder.svg|74]] **Z 255 Verbot für Krafträder** — Запрет для мотоциклов
+![](img/zeichen-255-verbot-kraftraeder.svg) **Z 255 Verbot für Krafträder** — Запрет для мотоциклов
 
-![[zeichen-259-verbot-fussgaenger.svg|74]] **Z 259 Verbot für Fußgänger** — Запрет для пешеходов
+![](img/zeichen-259-verbot-fussgaenger.svg) **Z 259 Verbot für Fußgänger** — Запрет для пешеходов
 
-![[zeichen-260-verbot-krad-kfz.svg|74]] **Z 260 Verbot für Krafträder und Kfz** — Запрет мото + мех. ТС
+![](img/zeichen-260-verbot-krad-kfz.svg) **Z 260 Verbot für Krafträder und Kfz** — Запрет мото + мех. ТС
 
-![[zeichen-262-verbot-masse.svg|74]] **Z 262 Verbot über tatsächliche Masse** — Запрет по факт. массе (т)
+![](img/zeichen-262-verbot-masse.svg) **Z 262 Verbot über tatsächliche Masse** — Запрет по факт. массе (т)
 
-![[zeichen-263-verbot-achslast.svg|74]] **Z 263 Verbot über Achslast** — Запрет по нагрузке на ось (т)
+![](img/zeichen-263-verbot-achslast.svg) **Z 263 Verbot über Achslast** — Запрет по нагрузке на ось (т)
 
-![[zeichen-264-verbot-breite.svg|74]] **Z 264 Verbot über Breite** — Запрет по ширине (м)
+![](img/zeichen-264-verbot-breite.svg) **Z 264 Verbot über Breite** — Запрет по ширине (м)
 
-![[zeichen-265-verbot-hoehe.svg|74]] **Z 265 Verbot über Höhe** — Запрет по высоте (м)
+![](img/zeichen-265-verbot-hoehe.svg) **Z 265 Verbot über Höhe** — Запрет по высоте (м)
 
-![[zeichen-266-verbot-laenge.svg|74]] **Z 266 Verbot über Länge** — Запрет по длине (м)
+![](img/zeichen-266-verbot-laenge.svg) **Z 266 Verbot über Länge** — Запрет по длине (м)
 
-![[zeichen-267-verbot-einfahrt.svg|74]] **Z 267 Verbot der Einfahrt** — Въезд запрещён (кирпич)
+![](img/zeichen-267-verbot-einfahrt.svg) **Z 267 Verbot der Einfahrt** — Въезд запрещён (кирпич)
 
-![[zeichen-268-schneeketten.svg|74]] **Z 268 Schneeketten vorgeschrieben** — Цепи обязательны (синий)
+![](img/zeichen-268-schneeketten.svg) **Z 268 Schneeketten vorgeschrieben** — Цепи обязательны (синий)
 
 
 > Числа на Z 262–266 — это **фактические** значения **с грузом** (масса / нагрузка на ось / ширина / высота / длина), а не паспортные. **Z 268** = цепи **обязательны** (синий, предписание), не путать с запретом.
@@ -854,21 +854,21 @@ updates:
 ### Geschwindigkeit und Überholen — скорость и обгон (§ 41)
 
 
-![[zeichen-274-hoechstgeschwindigkeit.svg|74]] **Z 274 Zulässige Höchstgeschwindigkeit** — Макс. скорость
+![](img/zeichen-274-hoechstgeschwindigkeit.svg) **Z 274 Zulässige Höchstgeschwindigkeit** — Макс. скорость
 
-![[zeichen-274-1-tempo-30-zone.svg|74]] **Z 274.1 Tempo-30-Zone** — Зона 30 (начало)
+![](img/zeichen-274-1-tempo-30-zone.svg) **Z 274.1 Tempo-30-Zone** — Зона 30 (начало)
 
-![[zeichen-275-mindestgeschwindigkeit.svg|74]] **Z 275 Vorgeschriebene Mindestgeschwindigkeit** — Мин. скорость (синий)
+![](img/zeichen-275-mindestgeschwindigkeit.svg) **Z 275 Vorgeschriebene Mindestgeschwindigkeit** — Мин. скорость (синий)
 
-![[zeichen-276-ueberholverbot.svg|74]] **Z 276 Überholverbot** — Обгон запрещён (всем)
+![](img/zeichen-276-ueberholverbot.svg) **Z 276 Überholverbot** — Обгон запрещён (всем)
 
-![[zeichen-277-ueberholverbot-lkw.svg|74]] **Z 277 Überholverbot für Kfz über 3,5 t** — Обгон запрещён грузовикам
+![](img/zeichen-277-ueberholverbot-lkw.svg) **Z 277 Überholverbot für Kfz über 3,5 t** — Обгон запрещён грузовикам
 
-![[zeichen-278-ende-hoechstgeschwindigkeit.svg|74]] **Z 278 Ende der Höchstgeschwindigkeit** — Конец ограничения скорости
+![](img/zeichen-278-ende-hoechstgeschwindigkeit.svg) **Z 278 Ende der Höchstgeschwindigkeit** — Конец ограничения скорости
 
-![[zeichen-280-ende-ueberholverbot.svg|74]] **Z 280 Ende des Überholverbots** — Конец запрета обгона
+![](img/zeichen-280-ende-ueberholverbot.svg) **Z 280 Ende des Überholverbots** — Конец запрета обгона
 
-![[zeichen-282-ende-streckenverbote.svg|74]] **Z 282 Ende sämtlicher Streckenverbote** — Конец всех запретов
+![](img/zeichen-282-ende-streckenverbote.svg) **Z 282 Ende sämtlicher Streckenverbote** — Конец всех запретов
 
 
 > **Z 274** (красный круг с числом) = максимум; **Z 275** (синий) = минимум. **Зона** (Z 274.1) действует до знака «конец зоны», а не до перекрёстка. **Z 282** снимает **все** линейные запреты разом (скорость + обгон + минимум).
@@ -877,17 +877,17 @@ updates:
 ### Halten und Parken — остановка и стоянка (§ 41/42)
 
 
-![[zeichen-283-absolutes-haltverbot.svg|74]] **Z 283 Absolutes Haltverbot** — Остановка запрещена
+![](img/zeichen-283-absolutes-haltverbot.svg) **Z 283 Absolutes Haltverbot** — Остановка запрещена
 
-![[zeichen-286-eingeschraenktes-haltverbot.svg|74]] **Z 286 Eingeschränktes Haltverbot** — Стоянка запрещена (остановка ≤3 мин ок)
+![](img/zeichen-286-eingeschraenktes-haltverbot.svg) **Z 286 Eingeschränktes Haltverbot** — Стоянка запрещена (остановка ≤3 мин ок)
 
-![[zeichen-290-1-haltverbotszone.svg|74]] **Z 290.1 Haltverbotszone** — Зона запрета остановки
+![](img/zeichen-290-1-haltverbotszone.svg) **Z 290.1 Haltverbotszone** — Зона запрета остановки
 
-![[zeichen-314-parken.svg|74]] **Z 314 Parken** — Стоянка разрешена (P)
+![](img/zeichen-314-parken.svg) **Z 314 Parken** — Стоянка разрешена (P)
 
-![[zeichen-315-parken-gehweg.svg|74]] **Z 315 Parken auf Gehwegen** — Стоянка на тротуаре
+![](img/zeichen-315-parken-gehweg.svg) **Z 315 Parken auf Gehwegen** — Стоянка на тротуаре
 
-![[zeichen-316-park-and-ride.svg|74]] **Z 316 Parken und Reisen (P+R)** — Перехватывающая парковка
+![](img/zeichen-316-park-and-ride.svg) **Z 316 Parken und Reisen (P+R)** — Перехватывающая парковка
 
 
 > **Z 283** (две скрещённые черты / красный X) — нельзя **ни останавливаться, ни парковать** (абсолютный запрет).
@@ -900,28 +900,28 @@ updates:
 ### Sonderwege и зоны
 
 
-![[zeichen-237-sonderweg-radfahrer.svg|74]] **Z 237 Sonderweg Radfahrer** — Велодорожка (обяз.)
+![](img/zeichen-237-sonderweg-radfahrer.svg) **Z 237 Sonderweg Radfahrer** — Велодорожка (обяз.)
 
-![[zeichen-238-sonderweg-reiter.svg|74]] **Z 238 Sonderweg Reiter** — Дорожка для всадников
+![](img/zeichen-238-sonderweg-reiter.svg) **Z 238 Sonderweg Reiter** — Дорожка для всадников
 
-![[zeichen-239-gehweg.svg|74]] **Z 239 Gehweg** — Тротуар (пешеходам)
+![](img/zeichen-239-gehweg.svg) **Z 239 Gehweg** — Тротуар (пешеходам)
 
-![[zeichen-240-gemeinsamer-geh-radweg.svg|74]] **Z 240 Gemeinsamer Geh- und Radweg** — Совмещённая пеш./вело
+![](img/zeichen-240-gemeinsamer-geh-radweg.svg) **Z 240 Gemeinsamer Geh- und Radweg** — Совмещённая пеш./вело
 
-![[zeichen-241-getrennter-rad-gehweg.svg|74]] **Z 241 Getrennter Rad- und Gehweg** — Разделённая пеш./вело
+![](img/zeichen-241-getrennter-rad-gehweg.svg) **Z 241 Getrennter Rad- und Gehweg** — Разделённая пеш./вело
 
-![[zeichen-242-fussgaengerzone.svg|74]] **Z 242 Fußgängerzone** — Пешеходная зона
+![](img/zeichen-242-fussgaengerzone.svg) **Z 242 Fußgängerzone** — Пешеходная зона
 
-![[zeichen-244-fahrradstrasse.svg|74]] **Z 244 Fahrradstraße** — Велоулица
+![](img/zeichen-244-fahrradstrasse.svg) **Z 244 Fahrradstraße** — Велоулица
 
-![[zeichen-245-bussonderfahrstreifen.svg|74]] **Z 245 Bussonderfahrstreifen** — Полоса для автобусов
+![](img/zeichen-245-bussonderfahrstreifen.svg) **Z 245 Bussonderfahrstreifen** — Полоса для автобусов
 
-![[zeichen-325-1-verkehrsberuhigter-bereich.svg|74]] **Z 325.1 Verkehrsberuhigter Bereich** — Жилая зона (Schrittgeschw.)
+![](img/zeichen-325-1-verkehrsberuhigter-bereich.svg) **Z 325.1 Verkehrsberuhigter Bereich** — Жилая зона (Schrittgeschw.)
 
-![[zeichen-270-1-umweltzone.svg|74]] **Z 270.1 Umweltzone** — Экозона (нужна плакета)
+![](img/zeichen-270-1-umweltzone.svg) **Z 270.1 Umweltzone** — Экозона (нужна плакета)
 
 
-![[zeichen-325-2-verkehrsberuhigter-bereich-ende.svg|74]] **Z 325.2 Ende** — конец жилой зоны (тот же знак, перечёркнут): при выезде **уступаешь всему** трафику.
+![](img/zeichen-325-2-verkehrsberuhigter-bereich-ende.svg) **Z 325.2 Ende** — конец жилой зоны (тот же знак, перечёркнут): при выезде **уступаешь всему** трафику.
 
 > **Verkehrsberuhigter Bereich** (Z 325.1): **Schrittgeschwindigkeit** (~7 км/ч), пешеходы и дети по всей ширине, парковка только на размеченных местах. **Umweltzone** (Z 270.1): въезд только с подходящей **плакетой**.
 
@@ -931,31 +931,31 @@ updates:
 **Синие прямоугольники** — информируют (приоритет, тип дороги, сервис). Не запрещают и не предписывают.
 
 
-![[zeichen-224-haltestelle.svg|74]] **Z 224 Haltestelle** — Остановка ОТ (H)
+![](img/zeichen-224-haltestelle.svg) **Z 224 Haltestelle** — Остановка ОТ (H)
 
-![[zeichen-310-ortstafel.svg|74]] **Z 310 Ortstafel** — Начало нас. пункта (50 км/ч)
+![](img/zeichen-310-ortstafel.svg) **Z 310 Ortstafel** — Начало нас. пункта (50 км/ч)
 
-![[zeichen-311-ortstafel-rueckseite.svg|74]] **Z 311 Ortstafel Rückseite** — Конец нас. пункта
+![](img/zeichen-311-ortstafel-rueckseite.svg) **Z 311 Ortstafel Rückseite** — Конец нас. пункта
 
-![[zeichen-330-1-autobahn.svg|74]] **Z 330.1 Autobahn** — Автомагистраль
+![](img/zeichen-330-1-autobahn.svg) **Z 330.1 Autobahn** — Автомагистраль
 
-![[zeichen-330-2-ende-autobahn.svg|74]] **Z 330.2 Ende der Autobahn** — Конец автомагистрали
+![](img/zeichen-330-2-ende-autobahn.svg) **Z 330.2 Ende der Autobahn** — Конец автомагистрали
 
-![[zeichen-331-1-kraftfahrstrasse.svg|74]] **Z 331.1 Kraftfahrstraße** — Дорога для авто
+![](img/zeichen-331-1-kraftfahrstrasse.svg) **Z 331.1 Kraftfahrstraße** — Дорога для авто
 
-![[zeichen-331-2-ende-kraftfahrstrasse.svg|74]] **Z 331.2 Ende der Kraftfahrstraße** — Конец дороги для авто
+![](img/zeichen-331-2-ende-kraftfahrstrasse.svg) **Z 331.2 Ende der Kraftfahrstraße** — Конец дороги для авто
 
-![[zeichen-327-tunnel.svg|74]] **Z 327 Tunnel** — Тоннель (ближний свет)
+![](img/zeichen-327-tunnel.svg) **Z 327 Tunnel** — Тоннель (ближний свет)
 
-![[zeichen-350-fussgaengerueberweg.svg|74]] **Z 350 Fußgängerüberweg** — Пешеходный переход (зебра)
+![](img/zeichen-350-fussgaengerueberweg.svg) **Z 350 Fußgängerüberweg** — Пешеходный переход (зебра)
 
-![[zeichen-357-sackgasse.svg|74]] **Z 357 Sackgasse** — Тупик
+![](img/zeichen-357-sackgasse.svg) **Z 357 Sackgasse** — Тупик
 
-![[zeichen-358-erste-hilfe.svg|74]] **Z 358 Erste Hilfe** — Пункт первой помощи
+![](img/zeichen-358-erste-hilfe.svg) **Z 358 Erste Hilfe** — Пункт первой помощи
 
-![[zeichen-363-polizei.svg|74]] **Z 363 Polizei** — Полиция
+![](img/zeichen-363-polizei.svg) **Z 363 Polizei** — Полиция
 
-![[zeichen-365-tankstelle.svg|74]] **Z 365 Tankstelle** — АЗС; доп-символ уточняет вид топлива (**CNG / LPG / H₂ / ⚡**)
+![](img/zeichen-365-tankstelle.svg) **Z 365 Tankstelle** — АЗС; доп-символ уточняет вид топлива (**CNG / LPG / H₂ / ⚡**)
 
 > **Вид топлива на знаке АЗС — CNG vs LPG (любимая ловушка каталога):**
 > - **CNG** = *Compressed Natural Gas* → **Erdgas** — **природный** газ (метан) «из земли»; **сжат** под ~200 бар, **легче** воздуха (утечка уходит вверх).
@@ -968,35 +968,35 @@ updates:
 >
 > Главное правило билета: **Erdgas (CNG) ≠ Autogas (LPG)**. (Билеты 2.4.42-104 = CNG, -105 = LPG, -103 = H₂.)
 
-![[zeichen-392-zollstelle.svg|74]] **Z 392 Zollstelle** — Таможня
+![](img/zeichen-392-zollstelle.svg) **Z 392 Zollstelle** — Таможня
 
-![[zeichen-328-pannenbucht.svg|74]] **Z 328 Nothalte- und Pannenbucht** — Аварийный карман
+![](img/zeichen-328-pannenbucht.svg) **Z 328 Nothalte- und Pannenbucht** — Аварийный карман
 
-![[zeichen-405-autobahn-nummer.svg|74]] **Z 405 Nummernschild für Autobahnen** — Номер автомагистрали
+![](img/zeichen-405-autobahn-nummer.svg) **Z 405 Nummernschild für Autobahnen** — Номер автомагистрали
 
-![[zeichen-460-bedarfsumleitung.svg|74]] **Z 460 Bedarfsumleitung** — Объезд (U + номер)
+![](img/zeichen-460-bedarfsumleitung.svg) **Z 460 Bedarfsumleitung** — Объезд (U + номер)
 
-![[zeichen-620-leitpfosten.svg|74]] **Z 620 Leitpfosten** — Направляющий столбик (стрелка→Notruf)
+![](img/zeichen-620-leitpfosten.svg) **Z 620 Leitpfosten** — Направляющий столбик (стрелка→Notruf)
 
 
 ### Markierungen — дорожная разметка (§ 42)
 
 
-![[zeichen-293-zebrastreifen.svg|74]] **Z 293 Fußgängerüberweg (Zebrastreifen)** — Зебра (разметка)
+![](img/zeichen-293-zebrastreifen.svg) **Z 293 Fußgängerüberweg (Zebrastreifen)** — Зебра (разметка)
 
-![[zeichen-294-haltlinie.svg|74]] **Z 294 Haltlinie** — Стоп-линия: сплошная **поперёк** полосы — стой ЗДЕСЬ (красный, STOP)
+![](img/zeichen-294-haltlinie.svg) **Z 294 Haltlinie** — Стоп-линия: сплошная **поперёк** полосы — стой ЗДЕСЬ (красный, STOP)
 
-![[zeichen-295-fahrstreifenbegrenzung.svg|74]] **Z 295 Fahrstreifenbegrenzung** — Сплошная **вдоль** движения: нельзя пересекать/наезжать
+![](img/zeichen-295-fahrstreifenbegrenzung.svg) **Z 295 Fahrstreifenbegrenzung** — Сплошная **вдоль** движения: нельзя пересекать/наезжать
 
-![[zeichen-296-einseitige-fahrstreifenbegrenzung.svg|74]] **Z 296 Einseitige Fahrstreifenbegrenzung** — Односторонняя сплошная
+![](img/zeichen-296-einseitige-fahrstreifenbegrenzung.svg) **Z 296 Einseitige Fahrstreifenbegrenzung** — Односторонняя сплошная
 
-![[zeichen-298-sperrflaeche.svg|74]] **Z 298 Sperrfläche** — Зона, запрещённая для въезда
+![](img/zeichen-298-sperrflaeche.svg) **Z 298 Sperrfläche** — Зона, запрещённая для въезда
 
-![[zeichen-720-gruenpfeil.svg|74]] **Z 720 Grünpfeil** — Зелёная стрелка (поворот направо на красный)
+![](img/zeichen-720-gruenpfeil.svg) **Z 720 Grünpfeil** — Зелёная стрелка (поворот направо на красный)
 
-![[zeichen-341-wartelinie.svg|74]] **Z 341 Wartelinie** — Линия ожидания: широкий **пунктир** поперёк — стой, *только если* надо уступить
+![](img/zeichen-341-wartelinie.svg) **Z 341 Wartelinie** — Линия ожидания: широкий **пунктир** поперёк — стой, *только если* надо уступить
 
-![[zeichen-342-haifischzaehne.svg|74]] **Z 342 Haifischzähne** — «Акульи зубы» — разметка «уступи дорогу»
+![](img/zeichen-342-haifischzaehne.svg) **Z 342 Haifischzähne** — «Акульи зубы» — разметка «уступи дорогу»
 
 
 > **Жёлтая** разметка (у строек) **отменяет** действие белой — едь по жёлтой. **Sperrfläche** (Z 298) — въезд запрещён. **Grünpfeil** (Z 720): на красном разрешает поворот направо **после полной остановки**, если никому не мешаешь.
@@ -1080,7 +1080,7 @@ updates:
 
 ### Umweltzone (зелёная плакета)
 
-![[zeichen-270-1-umweltzone.svg|140]]
+![](img/zeichen-270-1-umweltzone.svg)
 *Z 270.1 «Umweltzone Anfang» — въезд в экологическую зону. Внутри — только ТС с подходящей плакетой (зелёная, жёлтая, красная) на лобовом стекле.*
 
 В обозначенные **Umweltzonen** обычно нельзя въезжать без подходящей плакеты. **Освобождены**:
@@ -1097,7 +1097,7 @@ updates:
 
 ### Центробежная сила в повороте (Fliehkraft)
 
-![[diagram-fliehkraft.svg|480]]
+![](img/diagram-fliehkraft.svg)
 *F ∝ m × v² / r. Удвоил скорость — сила в 4 раза. Меньше радиус → больше сила. Тормози ДО входа, газ — на выходе.*
 
 Зависит от:
@@ -1337,15 +1337,15 @@ updates:
 
 ## Парковка — углублённо для класса B
 
-![[diagram-parking-distances.svg|680]]
+![](img/diagram-parking-distances.svg)
 *Ключевые дистанции: 5 м **до** зебры (после — можно), 15 м до/после остановки «H», 50 м (вне города) / 5 м (в городе) перед Andreaskreuz.*
 
- ![[zeichen-286-eingeschraenktes-haltverbot.svg|110]]
+ ![](img/zeichen-286-eingeschraenktes-haltverbot.svg)
 Z 286 «Eingeschränktes Haltverbot» — **ОДНА** красная косая черта. Парковка запрещена, кратковременная остановка ≤ 3 мин (и посадка/высадка, погрузка/разгрузка) — **ОК**.
-![[zeichen-283-absolutes-haltverbot.svg|110]]
+![](img/zeichen-283-absolutes-haltverbot.svg)
 **Z 283 «Absolutes Haltverbot»** — **ДВЕ** скрещённые красные черты (крест X). Здесь **нельзя даже останавливаться**, ни на минуту.
 
-![[kat-2.2.12-101-B.jpg|420]]
+![](img/kat-2.2.12-101-B.jpg)
 *Кто первый занял место по правилам — у того приоритет. Не подрезать «через перекрёстную траекторию».*
 
 ### Минимум 3 метра до сплошной линии
@@ -1551,7 +1551,7 @@ Z 286 «Eingeschränktes Haltverbot» — **ОДНА** красная косая
 
 ## Слепое зрение / Toter Winkel
 
-![[diagram-toter-winkel.svg|500]]
+![](img/diagram-toter-winkel.svg)
 *Зелёные секторы — зоны зеркал. Красные — слепые пятна. Особо опасен правый сзади (велосипедист при повороте направо). Защита — Schulterblick.*
 
 - **Toter Winkel** = зона, **не видимая ни в зеркало, ни напрямую**.
@@ -1748,7 +1748,7 @@ Z 286 «Eingeschränktes Haltverbot» — **ОДНА** красная косая
 
 ## ADR / опасные грузы (orangefarbene Warntafeln)
 
-![[kat-2.2.22-201.jpg|420]]
+![](img/kat-2.2.22-201.jpg)
 *Оранжевая прямоугольная табличка спереди и сзади ТС = опасный груз (Gefahrgut, ADR). Цифры — код опасности и UN-номер вещества.*
 
 - Lkw 5,0 т с оранжевыми табличками = **Gefahrgut**.
@@ -1832,7 +1832,7 @@ Z 286 «Eingeschränktes Haltverbot» — **ОДНА** красная косая
 
 ## Автобан и Kraftfahrstraße — общие правила
 
-![[zeichen-330-1-autobahn.svg|140]] ![[zeichen-331-1-kraftfahrstrasse.svg|140]]
+![](img/zeichen-330-1-autobahn.svg) ![](img/zeichen-331-1-kraftfahrstrasse.svg)
 *Z 330.1 «Autobahn» (синий) и Z 331.1 «Kraftfahrstraße» (тоже разделённая, но не магистраль). Минимальная конструктивная скорость ТС — 60 км/ч.*
 
 ### Что запрещено
@@ -1852,7 +1852,7 @@ Z 286 «Eingeschränktes Haltverbot» — **ОДНА** красная косая
 
 ### Stau (пробка) на автобане
 
-![[diagram-rettungsgasse.svg|640]]
+![](img/diagram-rettungsgasse.svg)
 *Rettungsgasse: на 2 полосах — между ними; на 3+ — между КРАЙНЕЙ ЛЕВОЙ и средней. Обочина (Standstreifen) — НЕ коридор. Формировать ЗАРАНЕЕ, не когда сирена уже близко.*
 
 - **Аварийку** + сбавить.
@@ -1889,7 +1889,7 @@ Z 286 «Eingeschränktes Haltverbot» — **ОДНА** красная косая
 
 ### Wildunfall (столкновение с диким животным)
 
-![[zeichen-142-wildwechsel.svg|140]]
+![](img/zeichen-142-wildwechsel.svg)
 *Z 142 «Wildwechsel» — на этом участке вероятен переход диких животных. Особенно рассвет/закат, осень. После столкновения — полиция и Wildunfallbescheinigung для страховки.*
 
 - **Аварийка**, жилет, треугольник.
@@ -2046,7 +2046,7 @@ Maut обязана **с 7,5 т** общего веса сцепки, **если
 
 ## Светофор: жёлтый, длинный зелёный, дюрер
 
-![[kat-2.2.37-006.jpg|420]]
+![](img/kat-2.2.37-006.jpg)
 *Жёлтый при левом повороте: если уже стоишь в перекрёстке для левого — завершай поворот. Если за стоп-линией — стой.*
 
 ### Длинный зелёный
@@ -2244,7 +2244,7 @@ Maut обязана **с 7,5 т** общего веса сцепки, **если
 
 ### Документы при ДТП
 
-![[zulassungsbescheinigung-teil-1-vorderseite.jpg|420]]
+![](img/zulassungsbescheinigung-teil-1-vorderseite.jpg)
 *Zulassungsbescheinigung Teil I (Fahrzeugschein) — этот документ всегда возишь с собой. Teil II (Fahrzeugbrief) хранят дома, нужен только при продаже.*
 
 - **Führerschein**.

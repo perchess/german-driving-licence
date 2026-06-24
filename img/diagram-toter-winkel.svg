@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 360" font-family="sans-serif">
+  <style>
+    .car { fill: #1976d2; stroke: #0d47a1; stroke-width: 2; }
+    .truck { fill: #455a64; stroke: #263238; stroke-width: 2; }
+    .blind { fill: #c62828; opacity: 0.35; }
+    .mirror { fill: #fff; stroke: #000; stroke-width: 1; }
+    .see-view { fill: #2e7d32; opacity: 0.15; }
+    .head { font-size: 16px; font-weight: 700; fill: #111; }
+    .lbl { font-size: 13px; fill: #111; }
+    .red { font-size: 14px; font-weight: 700; fill: #c62828; }
+    .green { font-size: 14px; font-weight: 700; fill: #2e7d32; }
+  </style>
+
+  <text class="head" x="20" y="22">Toter Winkel — слепое пятно</text>
+
+  <!-- Car -->
+  <g transform="translate(200, 130)">
+    <rect class="car" x="-40" y="-25" width="80" height="100" rx="6"/>
+    <!-- Mirrors -->
+    <rect class="mirror" x="-46" y="-5" width="8" height="14"/>
+    <rect class="mirror" x="38" y="-5" width="8" height="14"/>
+    <!-- inner mirror -->
+    <rect class="mirror" x="-12" y="-22" width="24" height="6"/>
+    <text class="lbl" x="-12" y="32" fill="#fff">PKW</text>
+  </g>
+
+  <!-- Side blind zones -->
+  <path class="blind" d="M 240 130 L 380 110 L 380 230 L 240 220 Z"/>
+  <path class="blind" d="M 160 130 L 20 110 L 20 230 L 160 220 Z"/>
+  <text class="red" x="280" y="180">слепое пятно справа</text>
+  <text class="red" x="40" y="180">слева</text>
+
+  <!-- Cyclist in blind zone right -->
+  <g transform="translate(290, 200)">
+    <rect fill="#f9a825" stroke="#f57f17" stroke-width="1.5" x="0" y="0" width="14" height="22"/>
+  </g>
+  <text class="lbl" x="290" y="240">🚲</text>
+
+  <!-- Rear blind zone -->
+  <path class="blind" d="M 165 230 L 235 230 L 250 320 L 150 320 Z"/>
+  <text class="red" x="170" y="280">сзади низко</text>
+
+  <!-- Mirror visible zones -->
+  <path class="see-view" d="M 160 110 L 40 60 L 40 110 Z"/>
+  <path class="see-view" d="M 240 110 L 360 60 L 360 110 Z"/>
+  <text class="green" x="60" y="80">зона зеркала</text>
+  <text class="green" x="280" y="80">зона зеркала</text>
+
+  <text class="head" x="20" y="346">Защита: Schulterblick (взгляд через плечо) перед каждой сменой полосы и поворотом!</text>
+</svg>
