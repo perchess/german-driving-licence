@@ -1,0 +1,12 @@
+title: German Driving Theory (Klasse B)
+description: Theory digest for the German driving licence exam — in Russian
+theme: minima
+lang: ru
+
+# GitHub Pages settings
+plugins:
+  - jekyll-relative-links
+
+markdown: kramdown
+kramdown:
+  input: GFM
